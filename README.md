@@ -20,10 +20,10 @@ Input (exemples) :
 
 graph_prod.py :
 - produit et enregistre un graphe du signal numérique brut (pour une ou plusieurs itérations au choix)
-    VOIR EXEMPLE essai2_4_PSP.txt.jpg
+VOIR EXEMPLE essai2_4_PSP.txt.jpg
 - produit et enregistre 4 graphes du signal traité avec labVIEW, montrant chaque variable en fonction du temps (pour une ou plusieurs itérations au choix)
 - Produire une moyenne par échantillon des 4 graphes précédemment cités.
-    VOIR EXEMPLE mean_mat_manip2.txt.jpg
+VOIR EXEMPLE mean_mat_manip2.txt.jpg
 
 Le production du dernier graphe avec le calcul de moyenne implique d'uniformiser les tailles de matrices d'essais de durées variables.
 
